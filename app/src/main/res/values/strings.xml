@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Погодная станция</string>
+    <string name="label_city_name">Город</string>
+    <string name="label_add_cities">Добавить</string>
+    <string name="label_update_cities">Обновить</string>
+    <string name="query_title">Введите навзание города</string>
+</resources>
